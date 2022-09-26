@@ -32,7 +32,7 @@ All of my coops were in research, mostly in academia. So, I will focus mostly on
 
 `If you want to be a nano researcher, ditch WaterlooWorks and go external (unless you are a junior).`
 
-If you chose this program, you would have done some research into the coop scenario of the program. If you did, you would know that there are a limited number of nano research coops on WaterlooWorks. There are also multiple nano cohorts applying to the same coops (not to mention the science faculty students). This results in very few research coops, and the its also always the same kind every term. To separate yourself from the crowd, you need to look at places noone usually looks at.
+If you chose this program, you would have done some research into the coop scenario of the program. If you did, you would know that there are a limited number of nano research coops on WaterlooWorks. There are also multiple nano cohorts applying to the same coops (not to mention the science faculty students). This results in very few research coops, and  its also always the same kind every term. To separate yourself from the crowd, you need to search for jobs at places noone usually looks at.
 
 Nearly every university in North America does some version of nanotechnology research. From personal experience, a lot of them are already familiar with Waterloo's coop program. All it took from my side to get a coop externally, in other unis, is reach out to the professors and ask them if they have any openings. I got 3 coops this way, and I am sure you can do the same.
 
@@ -56,4 +56,4 @@ The two most straightforward paths to an industry nano coop are through Waterloo
 
 ## Concluding Thoughts
 
-Nano coops are generally more hard to find, and pay less, than SE or ECE coops. But, at least for me, they sound a lot more rewarding than a regular office job, or a software development coop. I am sure you would feelt he same if this field really interests you.
+Nano coops are generally more hard to find, and pay less, than SE or ECE coops. But, at least for me, they sound a lot more rewarding than a regular office job, or a software development coop. I am sure you would feel the same if this field really interests you.
