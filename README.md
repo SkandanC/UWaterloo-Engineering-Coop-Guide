@@ -22,6 +22,14 @@ but I am sure I have missed out on a lot of things.
 If you have any suggestions, please feel free to open
 an issue or a pull request.
 
+## Great websites for coop advice
+
+- [Alex Zvorygin's GitHub](https://github.com/zvory/guide-to-coop)
+- [Jashan Shewakramani's website](https://jashans98.github.io/2021/01/13/a-guide-to-uwaterloo-cs-coops.html)
+- [Derek Xu's Medium blog](https://medium.com/@derekxu/what-i-learned-from-my-first-uwaterloo-co-op-term-part-1-12096f1dbfca)
+- [Prof. Bill Anderson's webpage](https://profbillanderson.com/2013/09/21/things-people-say-about-co-op/)
+- [Xierumeng's webpage](https://xierumeng.github.io/blog/3-3)
+
 ## Contributing
 
 My knowledge is limited to nano eng, and so you will
